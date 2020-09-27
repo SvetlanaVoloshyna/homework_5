@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:black;
+}
+footer{
+    background-color: rgba(18, 17, 22, 0.5);
+    text-align: center;
+    color: rgb(244, 244, 244);
+    font-family: "Open Sans";
+}
+.logo{
+    padding-top: 120px;
+    margin-bottom: 51px;
+    display: inline-block;
+}
+.social>p{
+    margin: 0 0 21px 0;
+    font-size: 20px;
+    letter-spacing: 0.05em;
+}
+.href{
+    margin-bottom: 20px;
+}
+.links{
+    list-style: none;
+    padding: 0 0 89px 0;
+    margin: 0;
+    text-align: center;
+
+}
+.links>li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.copyright>p{
+    font-size: 15px;
+    font-size: 15px;
+    padding-bottom: 38px;
+
+}
+#color{
+    color: rgb(25, 200, 250);
+}
+
